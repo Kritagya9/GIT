@@ -3,3 +3,8 @@ banana
 coconut
 dragonfruit
 elderberry
+kiwi 
+cherry
+pineapple 
+apple
+litchi 
