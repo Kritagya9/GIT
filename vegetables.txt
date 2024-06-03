@@ -3,3 +3,8 @@ brocoli
 potato
 brinjal
 onion
+carrot 
+mushroom
+cabbage
+radish
+beetroot
